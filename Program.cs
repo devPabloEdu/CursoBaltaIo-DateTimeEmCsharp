@@ -24,8 +24,10 @@ namespace DateTimeEmCsharp
             // if(data.Date == DateTime.Now.Date){
             //     Console.WriteLine("é igual");
             // } 
-            var pt = new CultureInfo("pt-br");
-            
+            var ptBr = new CultureInfo("pt-BR");
+            var enUs = new CultureInfo("en-US");
+            var de = new CultureInfo("de-DE");
+
             Console.WriteLine(data);
             
         }
