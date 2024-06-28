@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateTimeEmCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e725a4c4ad68d74e749c35fd33094a2ba22cdbda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4826e4701458b3c7f17573f8fc0a412494653873")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateTimeEmCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateTimeEmCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

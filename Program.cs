@@ -6,12 +6,11 @@ namespace DateTimeEmCsharp
         static void Main(string[] args)
         {
             //var data = DateTime.Now; //pega  a data de hoje
-            var data = new DateTime(2020, 10, 12, 8, 23, 14); // ano, mes, dia, hora, minuto e segundo.
-            Console.WriteLine(data);
-            Console.WriteLine(data.Year);
-            Console.WriteLine(data.Month);
-            Console.WriteLine(data.Day);
-            Console.WriteLine(data.Hour);
+            //var data = new DateTime(2020, 10, 12, 8, 23, 14); // ano, mes, dia, hora, minuto e segundo.
+            var data = DateTime.Now;
+            var formatada = String.Format("{0}", data);
+            //var formatada = String.Format("{0}/{1}/{2}", data.Day, data.Month, data.Year); //formatação especifica do dia,mes e ano.
+            Console.WriteLine(formatada);
         }
     }
    
