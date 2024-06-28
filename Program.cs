@@ -13,11 +13,15 @@ namespace DateTimeEmCsharp
             //var formatada = String.Format("{0:D}", data); //vai exibir a data por extenso
             //var formatada = String.Format("{0:dd/MM/yyyy  hh:mm:ss}", data);
             //var formatada = String.Format("{0}/{1}/{2}", data.Day, data.Month, data.Year); //formatação especifica do dia,mes e ano.
+            //Console.WriteLine(data.AddDays(1));
+            //Console.WriteLine(data.AddMonths(1));
+            //Console.WriteLine(data.AddYears(1));
 
+            if(data == DateTime.Now){
+                Console.WriteLine("é igual");
+            } 
             Console.WriteLine(data);
-            Console.WriteLine(data.AddDays(1));
-            Console.WriteLine(data.AddMonths(1));
-            Console.WriteLine(data.AddYears(1));
+            
         }
     }
    
