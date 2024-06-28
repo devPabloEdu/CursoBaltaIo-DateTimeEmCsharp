@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Globalization;
+
 namespace DateTimeEmCsharp
+
 {
     class Program
     {
@@ -13,7 +16,7 @@ namespace DateTimeEmCsharp
             //var formatada = String.Format("{0:D}", data); //vai exibir a data por extenso
             //var formatada = String.Format("{0:dd/MM/yyyy  hh:mm:ss}", data);
             //var formatada = String.Format("{0}/{1}/{2}", data.Day, data.Month, data.Year); //formatação especifica do dia,mes e ano.
-            
+
             //Console.WriteLine(data.AddDays(1));
             //Console.WriteLine(data.AddMonths(1));
             //Console.WriteLine(data.AddYears(1));
@@ -21,6 +24,7 @@ namespace DateTimeEmCsharp
             // if(data.Date == DateTime.Now.Date){
             //     Console.WriteLine("é igual");
             // } 
+            var pt = new CultureInfo("pt-br");
             
             Console.WriteLine(data);
             
