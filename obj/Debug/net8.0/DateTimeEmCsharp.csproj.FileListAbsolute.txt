@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\bin\Debug\net8.0\DateTimeEmCsharp.exe
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\bin\Debug\net8.0\DateTimeEmCsharp.deps.json
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\bin\Debug\net8.0\DateTimeEmCsharp.runtimeconfig.json
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\bin\Debug\net8.0\DateTimeEmCsharp.dll
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\bin\Debug\net8.0\DateTimeEmCsharp.pdb
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.sourcelink.json
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.dll
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\refint\DateTimeEmCsharp.dll
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.pdb
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\DateTimeEmCsharp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\programação\DateTimeEmCsharp\obj\Debug\net8.0\ref\DateTimeEmCsharp.dll
