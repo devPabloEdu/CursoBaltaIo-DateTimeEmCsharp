@@ -17,7 +17,7 @@ namespace DateTimeEmCsharp
             //Console.WriteLine(data.AddMonths(1));
             //Console.WriteLine(data.AddYears(1));
 
-            if(data == DateTime.Now){
+            if(data.Date == DateTime.Now.Date){
                 Console.WriteLine("é igual");
             } 
             Console.WriteLine(data);
