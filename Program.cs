@@ -28,7 +28,10 @@ namespace DateTimeEmCsharp
             var enUs = new CultureInfo("en-US");
             var de = new CultureInfo("de-DE");
 
-            Console.WriteLine(data);
+            Console.WriteLine(data.ToString("D"));
+            Console.WriteLine(data.ToString("D", de));
+            Console.WriteLine(data.ToString("D", enUs));
+            Console.WriteLine(data.ToString("D", ptBr));
             
         }
     }
