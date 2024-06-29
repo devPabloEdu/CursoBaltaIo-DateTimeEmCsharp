@@ -39,6 +39,11 @@ namespace DateTimeEmCsharp
             var utcDate = DateTime.UtcNow;
             Console.WriteLine(utcDate);
             Console.WriteLine(utcDate.ToLocalTime());
+
+            var timezoneAustralia = TimeZoneInfo.FindSystemTimeZoneById("Pacific/Auckland");
+            var horaAustralia = TimeZoneInfo.ConvertTimeFromUtc(utcDate, timezoneAustralia);
+
+            Console.WriteLine(horaAustralia);
         }
     }
    
